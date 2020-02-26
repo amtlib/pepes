@@ -5,7 +5,7 @@ description = "This website aims to store as many pepes as possible"
 authors = ["amtlib <grzegorz.andrzej.pach@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3"
+python = "^3.6"
 django = "^3.0.3"
 
 [tool.poetry.dev-dependencies]
