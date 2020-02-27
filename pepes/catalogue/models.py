@@ -6,4 +6,4 @@ class Pepe(models.Model):
     image = models.ImageField(upload_to='media')
 
     def __str__(self):
-    return self.description[:20]
+        return self.description[:20]
